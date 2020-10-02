@@ -1,6 +1,6 @@
 extends Node 2D
 
-onready var Enemy load("res://Enemy/Enemy2.tscn") 
+onready var Enemy load("res://Enemy/Enemy.tscn") 
 export var pršb = 0.8 
 
 
